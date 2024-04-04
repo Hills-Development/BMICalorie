@@ -10,6 +10,10 @@ h1,h2,h3,h4,h5,h6,p,a,label {
 .chooseImage:hover {
     transform: scale(1.05);
 }
+.valueDiv {
+    display: flex;
+    justify-content:space-between;
+}
 
 body {
     background-color: #4f4e4c!important;
