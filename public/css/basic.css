@@ -1,0 +1,16 @@
+h1,h2,h3,h4,h5,h6,p,a,label {
+    color:white;
+}
+
+.chooseImage {
+    transition: 0.2s;
+    margin-bottom: 20px;
+}
+
+.chooseImage:hover {
+    transform: scale(1.05);
+}
+
+body {
+    background-color: #4f4e4c!important;
+}
